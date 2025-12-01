@@ -9,7 +9,8 @@ void function(){
 
 int main(){
 
-    cout << "Hello World!";
+    cout << "Hello World!\n";
+    function();
 
     return 0;
 }
